@@ -34,5 +34,3 @@ The script generates a graph displaying the volume correction factor (VCF) as a 
 ### Usage Notes
 - Ensure that the required libraries are installed before running the script.
 - The input values for mass percentage (xm) should be between 0 and 100%, and the temperature (T) should be between -20 and 50°C.
-
-Feel free to use, modify, and extend this script as needed for your specific application.
